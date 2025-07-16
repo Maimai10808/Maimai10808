@@ -1,0 +1,14 @@
+name: Metrics
+on:
+  schedule: [{cron: "0 0 * * *"}]  # 每天自动运行一次
+  workflow_dispatch:              # 手动触发
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: Maimai10808
+          template: classic
+          base: header, repositories, activity, community, languages
