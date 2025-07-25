@@ -47,14 +47,13 @@
 
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/jobs.png" />
 
-<p>&emsp;&emsp;Hi, I’m VermeerByte — passionate about coding, photography, music, reading, thinking, traveling, and learning languages.</p>
-<p>&emsp;&emsp;I’m deeply enthusiastic about computer science and the IT industry. Currently.  </p>
-<p>&emsp;&emsp;I’m focusing on full-stack iOS development with the goal of becoming an outstanding developer.</p>
-<p>&emsp;&emsp;I have a strong interest in iOS performance tuning, reverse engineering, and visionOS, and I’m actively learning in these areas.</p>
-<p>&emsp;&emsp;I’ve always believed that every iOS app is a piece of art — the only difference is that artists use brushes, while I use code.</p>
-<p>&emsp;&emsp;My idol is Steve Jobs. I love innovation and walking paths no one has taken before.</p>
-<p>&emsp;&emsp;My goal is to work in Berlin after graduation, and once I’m employed, I plan to learn the violin.</p>
-<p>&emsp;&emsp;<strong>If you’re an HR professional, feel free to check out my résumé and project list — I’d be honored to work with you.</strong></p>
+<p>&emsp;&emsp;👋 Hi, I’m VermeerByte — a passionate full-stack iOS developer with interests in coding, photography, music, and languages.</p>
+<p>&emsp;&emsp;I’m currently focused on building elegant, high-performance iOS apps.</p>
+<p>&emsp;&emsp;My areas of interest include iOS performance optimization, reverse engineering, and visionOS.</p>
+<p>&emsp;&emsp;I believe every great app is a work of art — artists use brushes, I use code.</p>
+<p>&emsp;&emsp;Inspired by Steve Jobs, I strive to innovate and walk paths few dare to take.</p>
+<p>&emsp;&emsp;🎯 Goal: Work in Berlin after graduation. On the side, I plan to learn the violin — because curiosity never ends.</p>
+<p>&emsp;&emsp;<strong>💼 If you’re an HR professional, feel free to check out my résumé and projects. I’d be excited to collaborate.</strong></p>
 
 </td></tr>
 
