@@ -28,7 +28,7 @@
 
 </div>
 
-[![My Skills](https://skillicons.dev/icons?i=ae,au,ps,pr,c,cpp,py,swift,java,spring,nodejs,js,html,css,react,vue,ts,angular,androidstudio,apple,atom,flutter,docker,figma,firebase,git,github,githubactions,gmail,graphql,notion,npm,postman,stackoverflow,svg,vscode,vite&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ae,au,ps,pr,c,cpp,py,swift,java,spring,nodejs,js,html,css,react,vue,ts,angular,androidstudio,apple,atom,flutter,docker,figma,firebase,git,github,githubactions,gmail,graphql,notion,npm,postman,stackoverflow,svg,vscode,vite&perline=15)](https://skillicons.dev)
 
 #  🙋 Hello
 
