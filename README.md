@@ -1,5 +1,8 @@
 <div align="center">
 
+<!-- ########################################## 分割 ########################################## -->
+<img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
+
   <!-- dynamic typing effect 动态打字效果 -->
   <div align="center">
     
@@ -57,6 +60,9 @@
 </td></tr>
 
 <tr><td>
+
+<!-- ########################################## 分割 ########################################## -->
+<img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
 
 ### 🏢 Work Experience
 
