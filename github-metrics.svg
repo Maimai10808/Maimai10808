@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1192" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1152" class="">
     <defs>
         <style/>
     </defs>
@@ -1372,7 +1372,7 @@
                                         <span>starred Aug 26 2025</span>
                                     </div>
                                 </div>
-                                <div class="field description">专属于软件开发工程师的 AI 宝典。从神经网络到大模型，从高层设计到微观原理，从工程实现到算法，学完后，你会发现 AI 也并不是想象中那么高不可攀、无法战胜，Just beat it !</div>
+                                <div class="field description">一个简单有趣纯粹的 AI 学习社区，点击试试👇</div>
                                 <div class="field infos">
                                     <div class="language">
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -1513,7 +1513,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 20 Mar 2026, 19:36:11 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 20 Mar 2026, 21:10:58 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
