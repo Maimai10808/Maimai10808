@@ -34,7 +34,7 @@
 <!-- ########################################## 分割 ########################################## -->
 <img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
 
-[![My Skills](https://skillicons.dev/icons?i=ae,au,ps,pr,c,cpp,py,swift,java,spring,nodejs,js,html,css,react,vue,ts,angular,androidstudio,apple,atom,flutter,docker,figma,firebase,git,github,githubactions,gmail,graphql,notion,npm,postman,stackoverflow,svg,vscode,vite&perline=15)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ae,au,ps,pr,py,swift,js,html,css,react,ts,apple,flutter,docker,figma,firebase,git,github,gmail,notion,npm,postman,vscode,vite&perline=15)](https://skillicons.dev)
 
 
 <!-- ########################################## 分割 ########################################## -->
