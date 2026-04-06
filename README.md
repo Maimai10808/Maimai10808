@@ -50,13 +50,6 @@
 
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/jobs.png" />
 
-<p>&emsp;&emsp;👋 Hi, I’m VermeerByte — a passionate full-stack iOS developer with interests in coding, photography, music, and languages.</p>
-<p>&emsp;&emsp;I’m currently focused on building elegant, high-performance iOS apps.</p>
-<p>&emsp;&emsp;My areas of interest include iOS performance optimization, reverse engineering, and visionOS.</p>
-<p>&emsp;&emsp;I believe every great app is a work of art — artists use brushes, I use code.</p>
-<p>&emsp;&emsp;Inspired by Steve Jobs, I strive to innovate and walk paths few dare to take.</p>
-<p>&emsp;&emsp;🎯 Goal: Work in Berlin after graduation. On the side, I plan to learn the violin — because curiosity never ends.</p>
-<p>&emsp;&emsp;<strong>💼 If you’re an HR professional, feel free to check out my résumé and projects. I’d be excited to collaborate.</strong></p>
 
 </td></tr>
 
