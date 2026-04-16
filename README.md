@@ -44,22 +44,32 @@
   
 <tr><td>
 
-#  🙋 Hello
+# Hi, I'm Mai 👋
 
-### 🤺 About Me
+Front-end developer focused on **Next.js**, currently building toward stronger expertise in **Web3 front-end development**.
 
-hi, i'm Mai. i’m a front-end developer focused on Next.js, and i’m currently growing toward becoming a stronger Web3 front-end developer.
+## About Me
 
-i love building user-facing products and exploring how modern frontend development can connect with blockchain technology. 
-i’m always curious about new tools, new ideas, and new ways to improve both my technical skills and the way i build things.
+I enjoy creating user-facing products and exploring the intersection of modern frontend engineering and blockchain technology.
 
-i’m especially interested in Web3, on-chain interaction, and blockchain-related products. 
-i enjoy learning by building, and I like turning ideas into real demo projects that help me understand both engineering and product design more deeply.
+My main interests include **Web3**, **on-chain interaction**, and **blockchain-based products**. I learn best by building — turning ideas into real demo projects and using that process to sharpen both technical and product thinking.
 
-for me, the most rewarding part of development is the process of continuous learning, problem-solving, and pushing myself forward.
+What I value most in development is the process itself: continuous learning, problem-solving, and steady improvement.
 
-💼 open to opportunities and collaboration  — contact: maiyufan849@gmail.com
-💬 always happy to talk about Next.js, Web3, and building things on the internet
+## Currently Interested In
+
+- Next.js
+- Web3 front-end development
+- On-chain UX
+- Blockchain product design
+- Building and shipping demo projects
+
+## Contact
+
+📫 **maiyufan849@gmail.com**
+
+💼 Open to opportunities and collaboration  
+💬 Happy to connect about **Next.js**, **Web3**, and building on the internet
 
 
 </td></tr>
