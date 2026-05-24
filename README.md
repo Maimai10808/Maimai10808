@@ -78,6 +78,8 @@
   
 Front-end developer focused on **Next.js**, currently building toward stronger expertise in **Web3 front-end development**.
 
+A **Next.js** craftsman sculpting majestic **Web3** experiences upon the **blockchain**’s eternal canvas.
+
 </div>
 
 
