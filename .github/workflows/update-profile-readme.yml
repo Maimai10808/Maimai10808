@@ -1,0 +1,32 @@
+name: Update Profile README
+
+on:
+  workflow_dispatch:
+
+  schedule:
+    - cron: "0 */6 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  update-profile-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout profile repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Update README latest writings
+        run: node scripts/update-profile-readme.js
+
+      - name: Commit README changes
+        uses: stefanzweifel/git-auto-commit-action@v7
+        with:
+          commit_message: "docs: update latest writings"
+          file_pattern: README.md
