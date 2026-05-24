@@ -44,7 +44,27 @@
   
 <tr><td>
 
-# Hi, I'm Maimai 👋
+<div align="center">
+
+  ## Hi, I'm Maimai 👋
+
+  <p>
+    <a href=""><img src="https://img.shields.io/badge/-文艺倾年-red" /></a>
+    <a href=""><img src="https://img.shields.io/badge/WeChat-artboy_lyh-07c160?logo=wechat&logoColor=white" /></a>
+    <img src="https://img.shields.io/badge/QQ-1531137510-green?logo=tencentqq&logoColor=white" />
+    <a href=""><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4?logo=bilibili&logoColor=white" /></a>
+    <a href="https://juejin.cn/user/3493561594808106" target="_blank"><img src="https://img.shields.io/badge/Juejin-掘金-1e80ff?logo=juejin&logoColor=white" /></a>
+    <a href="https://blog.csdn.net/2404_88907475?spm=1010.2135.3001.5343" target="_blank"><img src="https://img.shields.io/badge/CSDN-博客-c32136?logo=csdn&logoColor=white" /></a>
+    <a href="https://x.com/JasonMai27217" target="_blank"><img src="https://img.shields.io/badge/X-JasonMai27217-000000?logo=x&logoColor=white" /></a>
+    <a href="https://learnblockchain.cn/" target="_blank"><img src="https://img.shields.io/badge/LearnBlockchain-登链社区-2b6cb0" /></a>
+    <a href="https://www.linkedin.com/in/robin-mai-29a87835b/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Robin%20Mai-0A66C2?logo=linkedin&logoColor=white" /></a>
+  </p>
+
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=itxaiohanglover&label=Views&color=orange&style=flat" alt="访问量统计" />
+  </p>
+
+</div>
 
 Front-end developer focused on **Next.js**, currently building toward stronger expertise in **Web3 front-end development**.
 
