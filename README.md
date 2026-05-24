@@ -44,7 +44,7 @@
   
 <tr><td>
 
-# Hi, I'm Mai 👋
+# Hi, I'm Maimai 👋
 
 Front-end developer focused on **Next.js**, currently building toward stronger expertise in **Web3 front-end development**.
 
