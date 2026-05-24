@@ -67,11 +67,6 @@
     </a>
   </p>
 
-  <!-- visitor -->
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=itxaiohanglover&label=Views&color=orange&style=flat" alt="访问量统计" />
-  </p>
-
 </div>
 
 <div align="center">
