@@ -98,6 +98,11 @@ What I value most in development is the process itself: continuous learning, pro
 ## Latest Writings
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenClaw 入门：为什么它不只是一个 AI 聊天机器人，而是个人 AI 助手框架？](https://github.com/Maimai10808/blog_pages/blob/main/blog/ai-tools-workflows/openclaw-personal-ai-assistant-framework-introduction.md)
+- [Next.js 认证不只是保护页面：从 Middleware、Server Action 到 Data Access Layer 的工程化实践](https://github.com/Maimai10808/blog_pages/blob/main/blog/auth-permissions/nextjs-auth-middleware-server-action-dal.md)
+- [Next.js 认证不只是登录表单：从 Server Action、JWT Cookie 到 Middleware 的工程化落地](https://github.com/Maimai10808/blog_pages/blob/main/blog/auth-permissions/nextjs-server-action-jwt-cookie-auth.md)
+- [React 认证不只是存 Token：JWT、Access Token、Refresh Token 的工程化落地](https://github.com/Maimai10808/blog_pages/blob/main/blog/auth-permissions/react-jwt-auth-token-refresh.md)
+- [从 0x00 到 bit、byte、二进制、十六进制：讲清计算机底层表示](https://github.com/Maimai10808/blog_pages/blob/main/blog/computer-science-basics/computer-bits-bytes-binary-hex.md)
 <!-- BLOG-POST-LIST:END -->
 
 ## Contact
