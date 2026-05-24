@@ -75,10 +75,10 @@
 </div>
 
 <div align="center">
-  
-Front-end developer focused on **Next.js**, currently building toward stronger expertise in **Web3 front-end development**.
 
-A **Next.js** craftsman sculpting majestic **Web3** experiences upon the **blockchain**’s eternal canvas.
+<h3>
+  A <strong>Next.js</strong> craftsman sculpting majestic <strong>Web3</strong> experiences upon the <strong>blockchain</strong>’s eternal canvas.
+</h3>
 
 </div>
 
