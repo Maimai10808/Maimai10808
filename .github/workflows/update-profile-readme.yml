@@ -1,6 +1,14 @@
 name: Update Profile README
 
 on:
+  push:
+    branches:
+      - main
+    paths:
+      - "README.md"
+      - "scripts/update-profile-readme.js"
+      - ".github/workflows/update-profile-readme.yml"
+
   workflow_dispatch:
 
   schedule:
