@@ -98,11 +98,11 @@ What I value most in development is the process itself: continuous learning, pro
 ## Latest Writings
 
 <!-- BLOG-POST-LIST:START -->
+- [Docker 入门：为什么容器化是应用部署绕不开的一步](https://github.com/Maimai10808/blog_pages/blob/main/blog/deployment-devops/docker-containerization-introduction.md)
 - [Next.js 图片上传工程落地：从 Uploadcare 上传组件到图片存储、展示与安全上传](https://github.com/Maimai10808/blog_pages/blob/main/blog/forms-uploads/nextjs-uploadcare-image-upload-engineering.md)
 - [从 JSX 到 TSX：React 开发者必须掌握的 TypeScript 基础](https://github.com/Maimai10808/blog_pages/blob/main/blog/react-fundamentals/react-jsx-to-tsx-typescript-basics.md)
 - [React 复用思维入门：什么时候写组件，什么时候写工具函数，什么时候写自定义 Hook？](https://github.com/Maimai10808/blog_pages/blob/main/blog/react-fundamentals/react-reuse-components-utils-custom-hooks.md)
 - [Type Alias 还是 Interface：TypeScript 类型设计里的工程取舍](https://github.com/Maimai10808/blog_pages/blob/main/blog/react-fundamentals/typescript-type-alias-vs-interface-engineering-tradeoffs.md)
-- [OpenClaw 入门：为什么它不只是一个 AI 聊天机器人，而是个人 AI 助手框架？](https://github.com/Maimai10808/blog_pages/blob/main/blog/ai-tools-workflows/openclaw-personal-ai-assistant-framework-introduction.md)
 <!-- BLOG-POST-LIST:END -->
 
 ## Contact
