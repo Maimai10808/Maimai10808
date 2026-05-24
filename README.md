@@ -94,6 +94,12 @@ What I value most in development is the process itself: continuous learning, pro
 - Blockchain product design
 - Building and shipping demo projects
 
+
+## Latest Writings
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 ## Contact
 
 📫 **maiyufan849@gmail.com**
