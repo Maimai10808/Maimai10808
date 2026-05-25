@@ -98,11 +98,11 @@ What I value most in development is the process itself: continuous learning, pro
 ## Latest Writings
 
 <!-- BLOG-POST-LIST:START -->
+- [Git 和 GitHub 入门：从版本控制到团队协作，一篇文章讲清楚](https://github.com/Maimai10808/blog_pages/blob/main/blog/computer-science-basics/git-github-version-control-introduction.md)
+- [Linux 终端入门：新手必须掌握的常用命令和基本思路](https://github.com/Maimai10808/blog_pages/blob/main/blog/computer-science-basics/linux-terminal-basic-commands-introduction.md)
+- [GitHub Actions 入门：从自动测试到自动部署，理解 CI/CD 的基��流程](https://github.com/Maimai10808/blog_pages/blob/main/blog/deployment-devops/github-actions-ci-cd-introduction.md)
 - [Docker 入门：为什么容器化是应用部署绕不开的一步](https://github.com/Maimai10808/blog_pages/blob/main/blog/deployment-devops/docker-containerization-introduction.md)
 - [Next.js 图片上传工程落地：从 Uploadcare 上传组件到图片存储、展示与安全上传](https://github.com/Maimai10808/blog_pages/blob/main/blog/forms-uploads/nextjs-uploadcare-image-upload-engineering.md)
-- [从 JSX 到 TSX：React 开发者必须掌握的 TypeScript 基础](https://github.com/Maimai10808/blog_pages/blob/main/blog/react-fundamentals/react-jsx-to-tsx-typescript-basics.md)
-- [React 复用思维入门：什么时候写组件，什么时候写工具函数，什么时候写自定义 Hook？](https://github.com/Maimai10808/blog_pages/blob/main/blog/react-fundamentals/react-reuse-components-utils-custom-hooks.md)
-- [Type Alias 还是 Interface：TypeScript 类型设计里的工程取舍](https://github.com/Maimai10808/blog_pages/blob/main/blog/react-fundamentals/typescript-type-alias-vs-interface-engineering-tradeoffs.md)
 <!-- BLOG-POST-LIST:END -->
 
 ## Contact
