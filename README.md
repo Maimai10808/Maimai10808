@@ -98,11 +98,11 @@ What I value most in development is the process itself: continuous learning, pro
 ## Latest Writings
 
 <!-- BLOG-POST-LIST:START -->
+- [常见网络协议入门：从 IP 地址到 HTTP，一篇搞懂网络通信基础](https://github.com/Maimai10808/blog_pages/blob/main/blog/computer-science-basics/network-protocols-ip-http-security-basics.md)
 - [Git 和 GitHub 入门：从版本控制到团队协作，一篇文章讲清楚](https://github.com/Maimai10808/blog_pages/blob/main/blog/computer-science-basics/git-github-version-control-introduction.md)
 - [Linux 终端入门：新手必须掌握的常用命令和基本思路](https://github.com/Maimai10808/blog_pages/blob/main/blog/computer-science-basics/linux-terminal-basic-commands-introduction.md)
-- [GitHub Actions 入门：从自动测试到自动部署，理解 CI/CD 的基��流程](https://github.com/Maimai10808/blog_pages/blob/main/blog/deployment-devops/github-actions-ci-cd-introduction.md)
+- [GitHub Actions 入门：从自动测试到自动部署，理解 CI/CD 的基本流程](https://github.com/Maimai10808/blog_pages/blob/main/blog/deployment-devops/github-actions-ci-cd-introduction.md)
 - [Docker 入门：为什么容器化是应用部署绕不开的一步](https://github.com/Maimai10808/blog_pages/blob/main/blog/deployment-devops/docker-containerization-introduction.md)
-- [Next.js 图片上传工程落地：从 Uploadcare 上传组件到图片存储、展示与安全上传](https://github.com/Maimai10808/blog_pages/blob/main/blog/forms-uploads/nextjs-uploadcare-image-upload-engineering.md)
 <!-- BLOG-POST-LIST:END -->
 
 ## Contact
