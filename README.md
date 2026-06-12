@@ -98,11 +98,11 @@ What I value most in development is the process itself: continuous learning, pro
 ## Latest Writings
 
 <!-- BLOG-POST-LIST:START -->
-- [为什么现代前端一定要学工程化？](https://github.com/Maimai10808/blog_pages/blob/main/blog/感想/为什么现代前端一定要学工程化.md)
-- [从零搭建企业级 Mono Repo 工程：前端高薪必备技能](https://github.com/Maimai10808/blog_pages/blob/main/blog/感想/MonoRepo.md)
-- [如何写好 Git Commit Message：一份实用的提交信息指南](https://github.com/Maimai10808/blog_pages/blob/main/blog/computer-science-basics/git_commit_message.md)
-- [常见网络协议入门：从 IP 地址到 HTTP，一篇搞懂网络通信基础](https://github.com/Maimai10808/blog_pages/blob/main/blog/computer-science-basics/network-protocols-ip-http-security-basics.md)
-- [Git 和 GitHub 入门：从版本控制到团队协作，一篇文章讲清楚](https://github.com/Maimai10808/blog_pages/blob/main/blog/computer-science-basics/git-github-version-control-introduction.md)
+- [Codex App 完整教程：从安装、项目管理到插件、Skills、MCP 与电脑自动化](https://github.com/Maimai10808/blog_pages/blob/main/blog/ai-tools-workflows/codex-app-complete-guide.md)
+- [Codex 官方最佳实践解读：如何更高效地管理线程、工具、自动化和长期项目](https://github.com/Maimai10808/blog_pages/blob/main/blog/ai-tools-workflows/codex-official-best-practices.md)
+- [EIP-1559 详解：Ethereum 手续费机制如何从 Gas Price 走向 Base Fee](https://github.com/Maimai10808/blog_pages/blob/main/blog/blockchain-web3-fundamentals/eip-1559-ethereum-fee-mechanism.md)
+- [EIP-7702 详解：让 EOA 临时拥有智能合约能力，钱包体验会发生什么变化？](https://github.com/Maimai10808/blog_pages/blob/main/blog/blockchain-web3-fundamentals/eip-7702-smart-eoa-delegation.md)
+- [ERC-1271 与 CoW Protocol 智能订单：让智能合约也能“签名”下单](https://github.com/Maimai10808/blog_pages/blob/main/blog/blockchain-web3-fundamentals/erc-1271-cow-protocol-smart-orders.md)
 <!-- BLOG-POST-LIST:END -->
 
 ## Contact
