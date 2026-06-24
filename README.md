@@ -98,11 +98,11 @@ What I value most in development is the process itself: continuous learning, pro
 ## Latest Writings
 
 <!-- BLOG-POST-LIST:START -->
-- [Codex App 完整教程：从安装、项目管理到插件、Skills、MCP 与电脑自动化](https://github.com/Maimai10808/blog_pages/blob/main/blog/ai-tools-workflows/codex-app-complete-guide.md)
-- [Codex 官方最佳实践解读：如何更高效地管理线程、工具、自动化和长期项目](https://github.com/Maimai10808/blog_pages/blob/main/blog/ai-tools-workflows/codex-official-best-practices.md)
-- [EIP-1559 详解：Ethereum 手续费机制如何从 Gas Price 走向 Base Fee](https://github.com/Maimai10808/blog_pages/blob/main/blog/blockchain-web3-fundamentals/eip-1559-ethereum-fee-mechanism.md)
-- [EIP-7702 详解：让 EOA 临时拥有智能合约能力，钱包体验会发生什么变化？](https://github.com/Maimai10808/blog_pages/blob/main/blog/blockchain-web3-fundamentals/eip-7702-smart-eoa-delegation.md)
-- [ERC-1271 与 CoW Protocol 智能订单：让智能合约也能“签名”下单](https://github.com/Maimai10808/blog_pages/blob/main/blog/blockchain-web3-fundamentals/erc-1271-cow-protocol-smart-orders.md)
+- [Axios 快速入门：从基础请求到拦截器、全局配置与错误处理](https://github.com/Maimai10808/blog_pages/blob/main/blog/data-fetching-realtime/axios-basics-interceptors-error-handling.md)
+- [HTTP 快照 + MQTT 实时推送：一种更稳的前端实时数据架构](https://github.com/Maimai10808/blog_pages/blob/main/blog/data-fetching-realtime/http-snapshot-mqtt-realtime-architecture.md)
+- [Next.js Route Handler 入门：理解 NextRequest 与 NextResponse](https://github.com/Maimai10808/blog_pages/blob/main/blog/react-fundamentals/nextjs-route-handler-nextrequest-nextresponse.md)
+- [Next.js 性能优化实战：用 dynamic 懒加载降低首屏 JavaScript 体积](https://github.com/Maimai10808/blog_pages/blob/main/blog/react-fundamentals/nextjs-dynamic-import-performance.md)
+- [Next.js 找回密码模块怎么落地：React Hook Form + Zod + API 完整链路](https://github.com/Maimai10808/blog_pages/blob/main/blog/auth-permissions/nextjs-password-reset-rhf-zod-api.md)
 <!-- BLOG-POST-LIST:END -->
 
 ## Contact
