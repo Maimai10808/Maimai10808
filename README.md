@@ -98,11 +98,11 @@ What I value most in development is the process itself: continuous learning, pro
 ## Latest Writings
 
 <!-- BLOG-POST-LIST:START -->
-- [Axios 快速入门：从基础请求到拦截器、全局配置与错误处理](https://github.com/Maimai10808/blog_pages/blob/main/blog/data-fetching-realtime/axios-basics-interceptors-error-handling.md)
-- [HTTP 快照 + MQTT 实时推送：一种更稳的前端实时数据架构](https://github.com/Maimai10808/blog_pages/blob/main/blog/data-fetching-realtime/http-snapshot-mqtt-realtime-architecture.md)
-- [Next.js Route Handler 入门：理解 NextRequest 与 NextResponse](https://github.com/Maimai10808/blog_pages/blob/main/blog/react-fundamentals/nextjs-route-handler-nextrequest-nextresponse.md)
-- [Next.js 性能优化实战：用 dynamic 懒加载降低首屏 JavaScript 体积](https://github.com/Maimai10808/blog_pages/blob/main/blog/react-fundamentals/nextjs-dynamic-import-performance.md)
-- [Next.js 找回密码模块怎么落地：React Hook Form + Zod + API 完整链路](https://github.com/Maimai10808/blog_pages/blob/main/blog/auth-permissions/nextjs-password-reset-rhf-zod-api.md)
+- [Next.js 16 Cache Components 入门：如何用 `use cache` 和 Suspense 优化页面性能](https://github.com/Maimai10808/blog_pages/blob/main/blog/data-fetching-realtime/nextjs-16-cache-components-use-cache-suspense.md)
+- [Next.js 16 中 middleware.ts 改为 proxy.ts：认证逻辑到底应该放在哪里？](https://github.com/Maimai10808/blog_pages/blob/main/blog/auth-permissions/nextjs-proxy-authentication-dal.md)
+- [Next.js Intercepting Routes 详解：如何实现“路由变了，但页面以弹窗打开”](https://github.com/Maimai10808/blog_pages/blob/main/blog/react-fundamentals/nextjs-intercepting-routes-modal.md)
+- [Next.js Link 组件详解：什么时候应该关闭 `prefetch`？](https://github.com/Maimai10808/blog_pages/blob/main/blog/react-fundamentals/nextjs-link-prefetch-behavior.md)
+- [Next.js Parallel Routes 详解：如何让一个页面同时渲染多个独立区域](https://github.com/Maimai10808/blog_pages/blob/main/blog/react-fundamentals/nextjs-parallel-routes-independent-regions.md)
 <!-- BLOG-POST-LIST:END -->
 
 ## Contact
