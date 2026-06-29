@@ -98,11 +98,11 @@ What I value most in development is the process itself: continuous learning, pro
 ## Latest Writings
 
 <!-- BLOG-POST-LIST:START -->
-- [Next.js 16 Cache Components 入门：如何用 `use cache` 和 Suspense 优化页面性能](https://github.com/Maimai10808/blog_pages/blob/main/blog/data-fetching-realtime/nextjs-16-cache-components-use-cache-suspense.md)
-- [Next.js 16 中 middleware.ts 改为 proxy.ts：认证逻辑到底应该放在哪里？](https://github.com/Maimai10808/blog_pages/blob/main/blog/auth-permissions/nextjs-proxy-authentication-dal.md)
-- [Next.js Intercepting Routes 详解：如何实现“路由变了，但页面以弹窗打开”](https://github.com/Maimai10808/blog_pages/blob/main/blog/react-fundamentals/nextjs-intercepting-routes-modal.md)
-- [Next.js Link 组件详解：什么时候应该关闭 `prefetch`？](https://github.com/Maimai10808/blog_pages/blob/main/blog/react-fundamentals/nextjs-link-prefetch-behavior.md)
-- [Next.js Parallel Routes 详解：如何让一个页面同时渲染多个独立区域](https://github.com/Maimai10808/blog_pages/blob/main/blog/react-fundamentals/nextjs-parallel-routes-independent-regions.md)
+- [AES 加密算法详解：它是如何把明文变成密文的？](https://github.com/Maimai10808/blog_pages/blob/main/blog/computer-science-basics/aes-encryption-algorithm-explained.md)
+- [Cookie 详解：创建方式、属性、类型与安全风险](https://github.com/Maimai10808/blog_pages/blob/main/blog/web-security/cookie-attributes-types-security-risks.md)
+- [Ethereum Gas 详解：为什么交易费这么贵？如何降低交易成本？](https://github.com/Maimai10808/blog_pages/blob/main/blog/blockchain-web3-fundamentals/ethereum-gas-fee-cost-optimization.md)
+- [Merkle Tree 详解：为什么空投和白名单都喜欢用它？](https://github.com/Maimai10808/blog_pages/blob/main/blog/blockchain-web3-fundamentals/merkle-tree-airdrop-whitelist.md)
+- [Next.js 最佳实践总结：从 App Router 到缓存、懒加载与 SEO 优化](https://github.com/Maimai10808/blog_pages/blob/main/blog/react-fundamentals/nextjs-app-router-cache-lazy-loading-seo-best-practices.md)
 <!-- BLOG-POST-LIST:END -->
 
 ## Contact
