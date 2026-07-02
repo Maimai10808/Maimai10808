@@ -98,11 +98,11 @@ What I value most in development is the process itself: continuous learning, pro
 ## Latest Writings
 
 <!-- BLOG-POST-LIST:START -->
-- [AES 加密算法详解：它是如何把明文变成密文的？](https://github.com/Maimai10808/blog_pages/blob/main/blog/computer-science-basics/aes-encryption-algorithm-explained.md)
-- [Cookie 详解：创建方式、属性、类型与安全风险](https://github.com/Maimai10808/blog_pages/blob/main/blog/web-security/cookie-attributes-types-security-risks.md)
-- [Ethereum Gas 详解：为什么交易费这么贵？如何降低交易成本？](https://github.com/Maimai10808/blog_pages/blob/main/blog/blockchain-web3-fundamentals/ethereum-gas-fee-cost-optimization.md)
-- [Merkle Tree 详解：为什么空投和白名单都喜欢用它？](https://github.com/Maimai10808/blog_pages/blob/main/blog/blockchain-web3-fundamentals/merkle-tree-airdrop-whitelist.md)
-- [Next.js 最佳实践总结：从 App Router 到缓存、懒加载与 SEO 优化](https://github.com/Maimai10808/blog_pages/blob/main/blog/react-fundamentals/nextjs-app-router-cache-lazy-loading-seo-best-practices.md)
+- [浏览器中的三种数据存储方式：LocalStorage、SessionStorage 和 Cookie 详解](https://github.com/Maimai10808/blog_pages/blob/main/blog/web-security/browser-storage-localstorage-sessionstorage-cookie.md)
+- [10 个值得早点掌握的 Tailwind CSS 实用技巧](https://github.com/Maimai10808/blog_pages/blob/main/blog/frontend-styling/tailwind-css-practical-tips.md)
+- [10 个我希望早点知道的 Tailwind CSS 实用工具类](https://github.com/Maimai10808/blog_pages/blob/main/blog/frontend-styling/tailwind-css-useful-utilities.md)
+- [Chrome DevTools 使用指南：前端开发必须掌握的调试工具](https://github.com/Maimai10808/blog_pages/blob/main/blog/frontend-engineering/chrome-devtools-frontend-debugging-guide.md)
+- [CSS Flexbox 完整入门：从居中一个 div 到响应式布局](https://github.com/Maimai10808/blog_pages/blob/main/blog/frontend-styling/css-flexbox-responsive-layout.md)
 <!-- BLOG-POST-LIST:END -->
 
 ## Contact
