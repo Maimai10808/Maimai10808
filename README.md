@@ -98,11 +98,11 @@ What I value most in development is the process itself: continuous learning, pro
 ## Latest Writings
 
 <!-- BLOG-POST-LIST:START -->
+- [CSS 间距设计：什么时候用 Margin、Padding 和 Gap？](https://github.com/Maimai10808/blog_pages/blob/main/blog/frontend-styling/css-spacing-margin-padding-gap.md)
+- [Node.js 基础学习笔记：从运行环境到 npm 与命令行能力](https://github.com/Maimai10808/blog_pages/blob/main/blog/frontend-engineering/nodejs-runtime-npm-cli-basics.md)
+- [React `useCallback` 详解：什么时候用、为什么用、怎么避免踩坑？](https://github.com/Maimai10808/blog_pages/blob/main/blog/react-fundamentals/react-usecallback-explained.md)
 - [BIP39 是什么？为什么你的助记词能恢复整个钱包？](https://github.com/Maimai10808/blog_pages/blob/main/blog/blockchain-web3-fundamentals/bip39-mnemonic-wallet-recovery.md)
 - [Bitcoin Mempool 是什么？为什么你的比特币交易会卡住？](https://github.com/Maimai10808/blog_pages/blob/main/blog/blockchain-web3-fundamentals/bitcoin-mempool-pending-transaction.md)
-- [MPC 钱包是什么？为什么它比传统助记词钱包更安全？](https://github.com/Maimai10808/blog_pages/blob/main/blog/blockchain-web3-fundamentals/mpc-wallet-vs-mnemonic-wallet-security.md)
-- [PoW 和 PoS 到底有什么区别？从挖矿到质押的共识机制演进](https://github.com/Maimai10808/blog_pages/blob/main/blog/blockchain-web3-fundamentals/pow-pos-consensus-mechanism.md)
-- [Web3 前端工程师应当具备哪些能力](https://github.com/Maimai10808/blog_pages/blob/main/blog/web3-frontend/web3-frontend-core-skills.md)
 <!-- BLOG-POST-LIST:END -->
 
 ## Contact
