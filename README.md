@@ -102,7 +102,7 @@ What I value most in development is the process itself: continuous learning, pro
 - [Node.js 基础学习笔记：从运行环境到 npm 与命令行能力](https://github.com/Maimai10808/blog_pages/blob/main/blog/frontend-engineering/nodejs-runtime-npm-cli-basics.md)
 - [React `useCallback` 详解：什么时候用、为什么用、怎么避免踩坑？](https://github.com/Maimai10808/blog_pages/blob/main/blog/react-fundamentals/react-usecallback-explained.md)
 - [BIP39 是什么？为什么你的助记词能恢复整个钱包？](https://github.com/Maimai10808/blog_pages/blob/main/blog/blockchain-web3-fundamentals/bip39-mnemonic-wallet-recovery.md)
-- [Bitcoin Mempool 是什么？为什么你的比特币交易会卡住？](https://github.com/Maimai10808/blog_pages/blob/main/blog/blockchain-web3-fundamentals/bitcoin-mempool-pending-transaction.md)
+- [Bitcoin Mempool 是什么？为什么你的比特币交易会��住？](https://github.com/Maimai10808/blog_pages/blob/main/blog/blockchain-web3-fundamentals/bitcoin-mempool-pending-transaction.md)
 <!-- BLOG-POST-LIST:END -->
 
 ## Contact
